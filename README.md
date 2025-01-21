@@ -1,0 +1,1 @@
+The project you are about to see is my first project, I have done it entirely with HTML and I have applied things like lists, adding hyperlinks, images and of course, I practiced my basic knowledge of GitHub. - 20/January/2025
